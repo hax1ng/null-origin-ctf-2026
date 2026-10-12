@@ -1,0 +1,70 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.pytest_cache/
+.ruff_cache/
+
+# ---- OS / editor cruft ----
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# ---- Large challenge artifacts (keep the repo lean; writeups reference them) ----
+*.raw
+*.img
+*.qcow2
+*.vmdk
+*.ova
+*.7z
+*.7z.*
+*.tar
+*.tar.*
+*.zip
+*.pcap
+*.pcapng
+*.cap
+*.dll
+*.elf
+*.jar
+*.sealed
+*.dat
+*.idx
+*.nand
+*.bgcode
+
+# ---- Large media (challenge covers / carriers) ----
+# Note: small curated result/diagram images (PNG/JPG) that writeups embed ARE committed;
+# the large original challenge carriers below are not.
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.flac
+*.bmp
+*.tiff
+
+# ---- Secrets / infra (must never be committed) ----
+*.ovpn
+*.pem
+*.key
+id_rsa
+id_rsa.*
+id_ed25519
+id_ed25519.*
+*.p12
+*.pfx
+cookies.txt
+*.cookies
+.netrc
+wgcf-*.conf
+wireguard*.conf
+warp*.conf
+*token*
+*secret*.local

@@ -1,0 +1,7 @@
+# 30-deadlight
+user.txt = Null0rigin{the_lamp_told_you_by_going_out}
+root.txt = Null0rigin{a_deadlight_is_a_reading_not_a_failure}
+
+# Chain input recovered en route (29-stillwater root flag):
+# Null0rigin{the_sump_empties_on_its_own_schedule_not_yours}
+# (29-stillwater root password: Wellflash52199%)

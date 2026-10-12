@@ -1,0 +1,4 @@
+# process 4821 (kioskd) -- virtual memory areas, as self-reported
+0000000000400000-0000000000600000 r-xp 00000000 00:00 0  [kioskd binary]
+0000000000600000-0000000000800000 rw-p 00000000 00:00 0  [heap]
+# note: no third region below this line. there never was one.

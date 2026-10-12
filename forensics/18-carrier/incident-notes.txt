@@ -1,0 +1,7 @@
+INCIDENT RESPONSE NOTES -- host carrier-04
+===========================================
+Confirmed incident window (UTC): 2026-09-15T13:34:02+00:00 to 2026-09-15T13:34:03+00:00
+
+Everything created outside that window is unrelated background
+activity on this host and should not be treated as incident
+artifacts, however cleanly it recovers.

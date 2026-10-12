@@ -1,0 +1,34 @@
+{
+  "system": "CTFCEPTION ARCHIVE ENGINE",
+  "version": "4.2.0-STATIC",
+  "mission": "Lokmanya Tilak - Ideas That Refuse to Disappear",
+  "active_nodes": [
+    {
+      "node_id": "PRX02-ALPHA-1908",
+      "status": "ONLINE",
+      "carrier_frequency": "25.09 MHz",
+      "integrity_score": 87.4,
+      "archivist": "PRX02",
+      "quote": "Some stories survive because someone keeps telling them."
+    }
+  ],
+  "downloadable_artifacts": [
+    {
+      "identifier": "KESARI_VAULT_1908",
+      "path": "downloads/kesari_vault_1908.zip",
+      "helper_script": "downloads/extract_vault.py",
+      "format": "ENCRYPTED_ARCHIVE_ZIP",
+      "classification": "RESTRICTED_HISTORICAL_RECORD",
+      "access_key_hint": "The vault passphrase is the romanized title of Tilak's monumental philosophical work composed secretly by pencil inside Mandalay Jail between 1908 and 1914 (lowercase, single word, 11 letters).",
+      "telegraph_cipher_hint": "Once inside the vault, the telegraph beacon payload requires the chronicle launch coordinate key (DDMM format: 2509).",
+      "terminal_command": "reconstruct <DECODED_BEACON_KEY>"
+    }
+  ],
+  "metadata_channels": {
+    "historical_subject": "Lokmanya Bal Gangadhar Tilak",
+    "philosophical_core": "Swaraj, National Education, Swadeshi, Boycott",
+    "upcoming_event": "Lokmanya Gatha releasing on 25th Sept",
+    "curator": "PRX02 Chronicles (Explore PRX02 on YouTube)"
+  }
+}
+

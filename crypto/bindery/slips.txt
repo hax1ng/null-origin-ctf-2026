@@ -1,0 +1,5 @@
+loose slips found between pages:
+  Null0rigin{almost_but_the_mask_was_never_the_point}
+  Null0rigin{this_one_was_left_here_on_purpose}
+  Null0rigin{close_enough_to_waste_ten_minutes_on}
+  Null0rigin{grep_is_not_reverse_engineering}
